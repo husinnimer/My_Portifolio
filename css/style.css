@@ -55,7 +55,7 @@ p {
   top: 0;
   left: 0;
   width: 100%;
-  height: 50%;
+  height: 55%;
   background-color: #42c3ed;
 }
 
@@ -64,6 +64,10 @@ p {
 }
 
 /********** Template CSS ************/
+
+.edit {
+  color: #fff0 !important;
+}
 
 .text-stroke-header {
   -webkit-text-stroke: 3px #ffffff;
