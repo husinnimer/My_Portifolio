@@ -161,6 +161,11 @@ p {
     top: 30px;
   }
 }
+@media (max-width: 991px) {
+  .about-img {
+    margin-top: 20px;
+  }
+}
 /*===================== Progress Bar ====================*/
 
 .progress {
